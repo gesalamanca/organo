@@ -6,8 +6,8 @@
 
 ## Ferramentas utilizadas:
 
-React
-JavaScrip
+React  
+JavaScript
 
 ## Feito por:
 
